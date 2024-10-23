@@ -1,5 +1,10 @@
-### Hi there 👋
-```
+# Soy Manuel León :zap:
+
+## Información de contacto:
+
++ **Email:** manu9.leon@gmail.com
+
+
 Actualmente no trabajo 🔭 
 
 Estoy aprendiendo Desarrollo de Aplicaciones Web 💻
